@@ -1,0 +1,299 @@
+.tmp-mainmenu-nav .tmp-mainmenu > li > a {
+    font-size: 20px;
+}
+
+.tmp-mainmenu-nav .tmp-mainmenu > li {
+    margin: 10px 20px;
+}
+
+.banner-one-main-wrapper .inner .banner-intro {
+    --intro-line: #e5e5e5;
+    --intro-row: 56px;
+    margin-top: 28px;
+}
+
+.banner-one-main-wrapper .inner .banner-intro-heading,
+.banner-one-main-wrapper .inner .banner-intro-body {
+    margin: 0;
+    padding: 0;
+    line-height: 34px;
+    font-family: var(--font-secondary);
+}
+
+.banner-one-main-wrapper .inner .banner-intro-heading {
+    color: #111111;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.banner-one-main-wrapper .inner .banner-intro-body {
+    color: #2c2c2c;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.banner-one-main-wrapper .inner .banner-intro-label {
+    color: #ff014f;
+    font-weight: 700;
+}
+
+
+.banner-one-main-wrapper .inner .sub-title {
+    margin-bottom: 0px;
+}
+
+.tmp-section-gap-2 {
+    padding: 40px 0;
+}
+
+.odometer.odometer-auto-theme, .odometer.odometer-theme-default {
+    font-family: "Rajdhani", sans-serif;
+}
+
+.year-of-expariance-wrapper .year-expariance-wrap .year-number {
+    font-size: 105px;
+}
+
+.year-of-expariance-wrapper .year-expariance-wrap .year-title {
+    line-height: 110%;
+}
+
+@media (min-width: 568px) {
+    .year-of-expariance-wrapper .year-expariance-wrap {
+        gap: 30px;
+    }
+}
+
+.experiences-wrapper {
+    margin-bottom: 75px;
+}
+
+.education-experience-card .edu-sub-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.ex-para {
+    padding-left: 20px;
+    margin: 0;
+}
+
+.ex-para li {
+    margin-bottom: 10px;
+    list-style: disc;
+}
+
+.experiences-wrapper .experiences-wrap-left-content .experience-content .ex-name {
+    font-size: 40px;
+    line-height: 40px;
+}
+
+.experiences-wrapper .experiences-wrap-left-content .experience-content .ex-subtitle{
+    line-height: 16px;
+}
+
+.tmp-section-gap-3 {
+    padding: 0px 0px 80px 0px;
+}
+
+.tmp-section-gap-4 {
+    padding: 60px 0;
+}
+
+.service-card-v2 {
+    padding: 20px 40px 20px 40px;
+}
+
+.tool-heading {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.tool-heading img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+.progress-charts h6.heading {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.tmp-section-gapBottom-2 {
+    padding-bottom: 60px;
+}
+
+.img-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.section-head .title-2 {
+    color: var(--color-heading);
+    font-family: var(--font-primary);
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: 0;
+}
+
+.service-card-v3 {
+    padding: 60px;
+}
+
+.radius-round-2 {
+    border-radius: 20px !important;
+}
+
+.contact-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.contact-buttons .tmp-btn {
+    width: auto;
+}
+
+.logo img {
+    max-width: 130px;
+}
+
+.footer-style-one .ft-title, .footer-style-two .ft-title {
+    margin-bottom: 20px;
+}
+
+@media (min-width: 992px) {
+    .footer-style-one .description {
+        font-size: 34px;
+    }
+}
+
+@media (min-width: 700px) {
+    .copyright-area-one .main-wrapper {
+        justify-content: center;
+    }
+}
+
+.copyright-area-one .main-wrapper .copy-right-para {
+    color: #000000;
+    font-size: 18px;
+}
+
+.ready-chatting-option label{
+    background: #1cbd00;
+}
+
+.breadcrumb-inner h1 {
+    font-family: var(--font-primary);
+}
+
+.breadcrumb-inner .title {
+    font-size: 50px;
+}
+
+.breadcrumb-inner .page-list li.active {
+    font-size: var(--font-size-b3);
+    font-weight: 600;
+}
+
+.breadcrumb-inner .page-list li {
+    font-size: var(--font-size-b2);
+}
+
+.breadcrumb-inner .page-list li.icon {
+    padding: 0 10px;
+    margin-top: 6px;
+    color: var(--color-primary);
+}
+
+.breadcrumb-area {
+    padding-top: 120px;
+    padding-bottom: 0px;
+}
+
+body.tmp-white-version #side-hide, body.tmp-white-version .breadcrumb-area, body.tmp-white-version .tmp-sidebar-area .inner .top-area {
+    background: #ffffff;
+}
+
+@media (min-width: 768px) {
+    .project-details-area-wrapper .project-details-content-wrap .title {
+        font-size: 40px;
+        line-height: 20px;
+        margin-top: 14px;
+    }
+}
+
+
+.project-details-area-wrapper .project-details-content-wrap .docs {
+    margin-bottom: 10px;
+}
+
+.project-details-area-wrapper .project-details-content-wrap .mini-title {
+    line-height: 0px;
+}
+
+.project-details-swiper-wrapper .project-details-swiper-btn {
+    margin-top: 20px;
+}
+
+.check-box-wrap {
+    margin-bottom: 25px;
+}
+
+.project-details-images .project-details-img {
+    width: 100%;
+}
+
+.project-details-images .project-details-img img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.btn-text {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.figma-icon {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .banner-one-main-wrapper .inner .banner-intro {
+        --intro-row: 48px;
+        margin-top: 16px;
+    }
+
+    .banner-one-main-wrapper .inner .banner-intro-heading {
+        font-size: 18px;
+    }
+
+    .banner-one-main-wrapper .inner .banner-intro-body {
+        font-size: 15px;
+    }
+}
+
